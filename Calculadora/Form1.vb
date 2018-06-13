@@ -1,5 +1,5 @@
 ﻿Imports System.IO
-
+'aca andamo agregando un comentario =P
 Public Class Form1
 
     Dim cosas(0) As String
